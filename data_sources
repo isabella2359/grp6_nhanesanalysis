@@ -1,0 +1,34 @@
+NHANES Thyroid Hormone Data:
+- [THYROD_E](https://wwwn.cdc.gov/Nchs/Nhanes/2007-2008/THYROD_E.XPT)
+- [THYROD_F](
+- [THYROD_G]
+
+NHANES Demographics Data:
+- [DEMO_E]
+- [DEMO_F]
+- [DEMO_G]
+
+NHANES Smoking Data:
+- [SMQ_E]
+- [SMQ_F]
+- [SMQ_G]
+
+NHANES Physical Activity Data:
+- [PAQ_E]
+- [PAQ_F]
+- [PAQ_G]
+
+NHANES Sleep Duration Data:
+- [SLQ_E]
+- [SLQ_F]
+- [SLQ_G]
+
+NHANES Depression Data:
+- [DPQ_E]
+- [DPQ_F]
+- [DPQ_G]
+
+NHANES BMI Data:
+- [BMX_E]
+- [BMX_F]
+- [BMX_G]
